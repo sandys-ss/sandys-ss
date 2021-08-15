@@ -1,4 +1,4 @@
-![CWS-full](https://user-images.githubusercontent.com/35327992/129471012-4400e56b-eda0-4143-971a-7b3214c0efc0.png)
+<!-- ![CWS-full](https://user-images.githubusercontent.com/35327992/129471012-4400e56b-eda0-4143-971a-7b3214c0efc0.png) -->
 
 
 Hi there 👋
