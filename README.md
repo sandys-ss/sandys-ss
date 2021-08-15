@@ -3,7 +3,7 @@
 
 Hi there 👋
 
-I'm Sandy, Font-End Development. 
+I'm Sandy, Front-End Development. 
 
 - I’m looking to collaborate on design to code ⌛
 - I’m currently learning Javascript ⚡
