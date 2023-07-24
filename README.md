@@ -3,10 +3,7 @@
 
 <h1><b>Hi there</b> 👋 </h1>
 
-I'm Sandy, Front-End Development. 
-
-- I’m looking to collaborate on design to code ⌛
-- I’m currently learning Javascript ⚡
+I'm Sandy, Data Analyst From Indonesia. 
 
 <h1><b>Github Stats</b><h1>
 
