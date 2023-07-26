@@ -1,9 +1,8 @@
 <!-- ![CWS-full](https://user-images.githubusercontent.com/35327992/129471012-4400e56b-eda0-4143-971a-7b3214c0efc0.png) -->
 
 
-<h1><b>Hi there</b> 👋 </h1>
+<h1><b>Hi there</b> 👋 . I'm Sandy, Data Analyst.</h1>
 
-I'm Sandy, Data Analyst From Indonesia. <br>
 TripleTen Bootcamp Indonesia graduate and Entry-Level Data Analyst with experience in collecting, organizing, and analyzing data using Excel, Python, and SQL. Experienced in data analyst process :
 1. Pre-Processing Data
 2. Data Exploratory Analysis (EDA)
