@@ -8,7 +8,6 @@ TripleTen Bootcamp Indonesia graduate and Entry-Level Data Analyst with experien
 
 <h1><b>Github Stats</b><h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandys-ss&count_private=true)
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sandys-ss&layout=compact&langs_count=8"/>
 
 
