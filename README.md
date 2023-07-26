@@ -4,7 +4,12 @@
 <h1><b>Hi there</b> 👋 </h1>
 
 I'm Sandy, Data Analyst From Indonesia. <br>
-TripleTen Bootcamp Indonesia graduate and Entry-Level Data Analyst with experience in collecting, organizing, and analyzing data using Excel, Python, and SQL. Experienced in Pre-Processing Data, Data Exploratory Analysis (EDA), Business Analysis, Designing and Creating Visualization Dashboards, and applying Machine Learning to Business.
+TripleTen Bootcamp Indonesia graduate and Entry-Level Data Analyst with experience in collecting, organizing, and analyzing data using Excel, Python, and SQL. Experienced in data analyst process :
+1. Pre-Processing Data
+2. Data Exploratory Analysis (EDA)
+3. Business Analysis
+4. Designing and Creating Visualization Dashboards
+5. Applying Machine Learning to Business.
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sandys-ss&layout=compact&langs_count=8"/>
 
