@@ -10,8 +10,7 @@ TripleTen Bootcamp Indonesia graduate and Entry-Level Data Analyst with experien
 4. Exploratory Data Analysis
 5. Data Modelling
 6. Model Evaluation
-7. Model Deployement
-8. Data Visualization
+7. Data Visualization
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sandys-ss&layout=compact&langs_count=8"/>
 
